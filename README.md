@@ -18,7 +18,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Social-links-profile](https://mys1337-social-links-profile.netlify.app/)
 
 ### Built with
 
