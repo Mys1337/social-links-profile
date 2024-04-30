@@ -17,7 +17,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [https://www.frontendmentor.io/solutions](https://www.frontendmentor.io/solutions/sociallinksprofile-with-html-and-css-6LNYEsRJMX)
 - Live Site URL: [Social-links-profile](https://mys1337-social-links-profile.netlify.app/)
 
 ### Built with
@@ -28,6 +28,5 @@ Users should be able to:
 
 ## Author
 
-- Website - [Social links profile](https://www.your-site.com)
 - Frontend Mentor - [@Mys1337](https://www.frontendmentor.io/profile/Mys1337)
 - Twitter - [@Kirigamine21](https://twitter.com/miarinaly)
